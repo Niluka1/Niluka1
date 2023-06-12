@@ -12,7 +12,7 @@ This portfolio contains a collection of my notable projects, achievements, and a
 
 - projects/: This directory contains subdirectories for each of my significant projects. Each project directory includes a README file that provides an overview, objectives, and outcomes of the project, as well as any relevant source code or documentation.
 
-- Additional Information
+- Additional Information/:
         My name is Niluka Dilhani, and I am a Chartered Accountant with a passion for helping individuals and businesses achieve financial success. With 3 years of experience in the field, I have developed a strong foundation in financial accounting, auditing, taxation, and advisory services.
         As a Chartered Accountant, I possess a deep understanding of financial regulations, standards, and best practices. I am adept at analyzing complex financial data, identifying key insights, and providing strategic recommendations to optimize financial performance. Whether it's assisting clients with tax planning, conducting internal audits, or providing sound financial advice, I strive to deliver accurate and practical solutions tailored to their unique needs.
         My expertise extends to various industries. Throughout my career, I have worked with diverse clients, ranging from start-ups to established corporations, offering my services with the utmost professionalism, integrity, and confidentiality. I believe in building long-term relationships with my clients, understanding their goals, and working collaboratively to achieve sustainable financial growth.
