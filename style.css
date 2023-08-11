@@ -8,10 +8,12 @@ a{
     text-decoration: none;
 }
 .nilu{
-    width: 100%;
+    width: 200%;
     height: 100vh;
-    background: url;
+    background: #f0f8ff;
     background-size:cover;
+    padding: 5px;
+  
 
 }
 nav{
@@ -130,7 +132,8 @@ footer {
     width: 200px;
     height: auto;
     transition: transform 0.3s ease;
-}
+
+  }
 
   .title{
     position: absolute;
@@ -147,3 +150,91 @@ footer {
 .profile-image:hover {
   transform: scale(1.1);
 }
+
+
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 75%;
+    margin-top: 20px;
+}
+
+/* Additional Information */
+.additional-info {
+    background-color: #f0f8ff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+/* Projects */
+#projects {
+    color: darkslateblue;
+    padding: 40px;
+    text-align: left;
+    background-color: #ccc;
+}
+
+#projects h2 {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#projects p {
+    line-height: 1.6;
+}
+
+#projects b {
+    color: #333;
+    background-color: darksalmon;
+    font-size: large;
+}
+
+#projects .a,
+#projects .b,
+#projects .c,
+#projects .d
+ {
+    font-weight: bold;
+    color: brown;
+}
+
+/* Contact */
+#contact {
+    background-color: #757575;
+    padding: 40px;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+/* Footer */
+footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
