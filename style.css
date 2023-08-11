@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif; 
 }
 a{
     text-decoration: none;
 }
 .nilu{
-    width: 200%;
+    width: 100%;
     height: 100vh;
     background: #f0f8ff;
     background-size:cover;
@@ -228,6 +228,7 @@ textarea {
 
 .btn {
     cursor: pointer;
+    align-items: center;
 }
 
 /* Footer */
@@ -237,4 +238,3 @@ footer {
     padding: 20px;
     text-align: center;
 }
-
