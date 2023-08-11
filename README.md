@@ -22,6 +22,14 @@ This portfolio contains a collection of my notable projects, achievements, and a
 ## Getting in Touch
 
 If you have any inquiries or would like to discuss potential collaborations or job opportunities, please feel free to reach out to me. You can contact me via email at [nilukaniluka128@gmail.com] or connect with me my mobile number [0705285204].
+
+My website offers various ways for clients to get in touch with me and access the features I provide. Visitors can reach out through my phone number and email they also have the option to leave feedback. Additionally, they can follow me on social media platforms to stay updated. These details will be displayed in my portfolio.
+
+In terms of website structure, I've utilized HTML, CSS, JavaScript, and PHP to create a dynamic and interactive experience. This combination of technologies allows me to offer a seamless user experience and implement various functionalities. To facilitate data management, I've integrated a database using the XAMPP server environment. In particular, I've utilized PhpMyAdmin to set up a database where user feedback can be stored for future reference.
+
+The database contains a single table that captures contact details, including a name, email address, and message. When users fill out the contact form on the website, this information is collected and stored in the designated table within the database.
+
+Please note that the website and database are currently hosted on a localhost server. To access and interact with the website, you'll need to install a server environment like XAMPP on your device. After downloading the repository from GitHub, save it in the "server" folder within your C drive. Then, by entering the localhost URL in your browser, you can explore the website and review the stored feedback in the database. This local setup is required since the website is not currently available online.
 ## License
 
 This portfolio is licensed under the [MIT License](LICENSE), which allows others to use and modify the content as long as they provide attribution and include the same license in their derivative works.
